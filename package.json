@@ -1,0 +1,31 @@
+{
+  "name": "one-liner-cli",
+  "version": "1.0.0",
+  "description": "A command-line utility to convert multi-line terminal commands into a single line",
+  "main": "index.js",
+  "bin": {
+    "one-liner": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "terminal",
+    "command-line",
+    "utility",
+    "bash",
+    "shell",
+    "one-liner"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "copy-paste": "^2.1.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

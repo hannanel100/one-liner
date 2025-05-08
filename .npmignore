@@ -1,0 +1,15 @@
+# Development files
+test-clipboard.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Git related
+.git
+.gitignore
+
+# Other
+.DS_Store
