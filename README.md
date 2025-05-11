@@ -65,7 +65,7 @@ To develop locally:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/one-liner-cli.git
+   git clone https://github.com/hannanel100/one-liner-cli.git
    cd one-liner-cli
    ```
 
